@@ -12,7 +12,7 @@ import (
 	"time"
 	"unsafe"
 
-	. "go-fuzz-defs"
+	. "github.com/jsternberg/go-fuzz/go-fuzz-defs"
 )
 
 var (
